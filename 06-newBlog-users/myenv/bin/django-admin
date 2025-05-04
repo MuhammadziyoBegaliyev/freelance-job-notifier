@@ -1,4 +1,4 @@
-#!/home/muhammadziyo/django/06-newBlog-users/myenv/bin/python
+#!/home/muhammadziyo/django/06-newBlog-users/myenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
