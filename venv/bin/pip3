@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/muhammadziyo/django/onlinebot/venv/bin/python3
+=======
+#!/home/muhammadziyo/django/venv/bin/python3
+>>>>>>> a1cd6f5d8279e6fde28be9e54b171bc923aedecf
 # -*- coding: utf-8 -*-
 import re
 import sys
